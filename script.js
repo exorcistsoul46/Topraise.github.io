@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Typing effect for final message on third page
     if (finalMessage) {
         setTimeout(() => {  // 🟢 2-second delay before typing starts
-            let message = "Youre smile is really beautiful.Honestly,you look like an angel when you smile🌺💐";
+            let message = "Your smile is really beautiful.Honestly,you look like an angel when you smile🌺💐";
             let i = 0;
             let speed = 150; // Adjusted speed for better visibility
 
